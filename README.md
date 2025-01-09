@@ -102,7 +102,7 @@ Les métriques de performance sont calculées comme suit :
 
 ## Auteurs
 
-- **Mathieu Derville** – [GitHub](https://github.com/Andromede75)
+- **Andromede75** – [GitHub](https://github.com/Andromede75)
 
 ## Licence
 
